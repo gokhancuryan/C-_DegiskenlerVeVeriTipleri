@@ -1,0 +1,15 @@
+C:\Users\rg\Desktop\Kodluyoruz\degisken\bin\Debug\net7.0\degisken.exe
+C:\Users\rg\Desktop\Kodluyoruz\degisken\bin\Debug\net7.0\degisken.deps.json
+C:\Users\rg\Desktop\Kodluyoruz\degisken\bin\Debug\net7.0\degisken.runtimeconfig.json
+C:\Users\rg\Desktop\Kodluyoruz\degisken\bin\Debug\net7.0\degisken.dll
+C:\Users\rg\Desktop\Kodluyoruz\degisken\bin\Debug\net7.0\degisken.pdb
+C:\Users\rg\Desktop\Kodluyoruz\degisken\obj\Debug\net7.0\degisken.csproj.AssemblyReference.cache
+C:\Users\rg\Desktop\Kodluyoruz\degisken\obj\Debug\net7.0\degisken.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rg\Desktop\Kodluyoruz\degisken\obj\Debug\net7.0\degisken.AssemblyInfoInputs.cache
+C:\Users\rg\Desktop\Kodluyoruz\degisken\obj\Debug\net7.0\degisken.AssemblyInfo.cs
+C:\Users\rg\Desktop\Kodluyoruz\degisken\obj\Debug\net7.0\degisken.csproj.CoreCompileInputs.cache
+C:\Users\rg\Desktop\Kodluyoruz\degisken\obj\Debug\net7.0\degisken.dll
+C:\Users\rg\Desktop\Kodluyoruz\degisken\obj\Debug\net7.0\refint\degisken.dll
+C:\Users\rg\Desktop\Kodluyoruz\degisken\obj\Debug\net7.0\degisken.pdb
+C:\Users\rg\Desktop\Kodluyoruz\degisken\obj\Debug\net7.0\degisken.genruntimeconfig.cache
+C:\Users\rg\Desktop\Kodluyoruz\degisken\obj\Debug\net7.0\ref\degisken.dll
